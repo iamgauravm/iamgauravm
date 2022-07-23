@@ -1,3 +1,4 @@
+![timemanagementmatrix](banner.png)
 <h1 align="center">Hi 👋, I'm Gaurav Malviya</h1>
 <h3 align="center">A passionate full stack developer | Consultent | Freelancer ...</h3>
 
