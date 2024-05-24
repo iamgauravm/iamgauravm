@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter, React Native**
 
-- 📝 I regularly write articles on [http://gauravm.in](http://gauravm.in)
+- 📝 I regularly write articles on [https://gauravm.dev](https://gauravm.dev)
 
 - 💬 Ask me about **.NET Core, Angurar, React**
 
